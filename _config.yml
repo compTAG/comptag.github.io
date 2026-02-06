@@ -1,1 +1,35 @@
-theme: jekyll-theme-tactile
+# Site settings
+title: CompTaG
+email: brittany.fasy@montana.edu
+description: >
+  Computational Topology and Geometry (CompTaG) at Montana State University
+lang: en-US
+
+baseurl: "" # org page, no subpath
+url: https://comptag.github.io
+git_address: https://github.com/comptag
+
+# theme options from https://bootswatch.com/3/
+bootwatch: cosmo
+remote_theme: aksakalli/jekyll-doc-theme@gh-pages
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea/
+  - .gitignore
+  - README.md
+
+timezone: America/Denver

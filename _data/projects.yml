@@ -1,0 +1,91 @@
+# TODO: Review and update this data. Pre-populated from ~2021 public_html content.
+
+- title: Shape Reconstruction
+  image: assets/projects/reconstructon.jpg
+  description: >
+    In this project we are extending work on reconstructing shapes using
+    persistence diagrams. We are currently working on extending our results
+    from our paper "Learning Simplicial Complexes from Persistence Diagrams"
+    that was published at CCCG18.
+  links:
+    - label: Paper (arXiv)
+      url: https://arxiv.org/abs/1805.10716
+
+- title: Analyzing Data on Road Networks
+  image: assets/projects/bike.jpg
+  description: >
+    In this project we use topological features of data collected on roads
+    and maps to learn about how people move in different infrastructures.
+    We also use this information to see if the current infrastructure is
+    well designed or otherwise. This work is often done in collaboration
+    with Dr. Carola Wenk at Tulane University.
+  links:
+    - label: Sub-projects
+      url: http://www.cs.tulane.edu/~carola/research/roadNetworkData.html
+
+- title: Searching in the Space of Persistence Diagrams
+  image: assets/projects/hierarchical.jpg
+  description: >
+    Persistence diagrams are important tools in the field of topological
+    data analysis that describe the presence and magnitude of features in a
+    filtered topological space. In this research project, we apply concepts
+    from locality-sensitive hashing to support approximate nearest neighbor
+    search in the space of persistence diagrams.
+
+- title: Statistics and Topology
+  image: assets/projects/topologyandstat.jpg
+  description: >
+    The tools of topological data analysis (TDA), such as persistence
+    diagrams, provide new descriptors of data sets, with the potential to
+    uncover new insights into data. In our research at the intersection of
+    topology and statistics, we define new topological descriptors, and
+    prove statistical properties of these descriptors.
+
+- title: Minimum Homotopy
+  image: assets/projects/homotopy.png
+  description: >
+    Finding the minimum area swept out by continuously deforming a closed
+    curve in the plane to a point is an area of active research. One
+    application is measuring the similarity between two sets of GPS
+    coordinates. We use properties of the curves to develop efficient
+    algorithms to find the minimum homotopy area.
+
+- title: Constrained Facility Location
+  image: assets/projects/cropped_segment.png
+  description: >
+    Facility location is a traditional geometric optimization problem, the
+    objective being optimizing certain geometric criteria to build optimal
+    (or sub-optimal) locations for the facilities. In many modern
+    applications, significant constraints could be placed on the
+    facilities (e.g., a noisy facility should be far away from the
+    residential areas).
+
+- title: Gleason QuBBD Project
+  image: assets/projects/gleason.png
+  description: >
+    The long-term goal of this project is to develop quantitative
+    methodology for detecting geometric and topological features in point
+    clouds extracted from histology images. Of particular relevance, this
+    project considers the setting of prostate cancer classification, which
+    is based on a pathologist grading of histology slides using the Gleason
+    grading system.
+
+- title: BRaiD
+  image: assets/projects/avatar.png
+  description: >
+    Biofilms Resources and Information Database (BRaID) is a centralized
+    database and analysis tool for the diverse types of biofilm-related
+    data such as metagenomics, images, and trajectories. BRaID will give
+    biofilm researchers easier access to large amounts of data and
+    analytical tools.
+
+- title: R Package TDA
+  image: assets/projects/RTDA.png
+  description: >
+    The TDA package in R is an important tool for the implementation of key
+    functions used in topological data analysis. We are working to simplify
+    use of the package and enhance its viability in the future by improving
+    and expanding upon its documentation.
+  links:
+    - label: CRAN Package
+      url: https://cran.r-project.org/web/packages/TDA/index.html
