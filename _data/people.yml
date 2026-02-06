@@ -1,0 +1,133 @@
+# ------------------------------------------------------------------------------
+# FACULTY
+- category: Faculty
+  members:
+    - name: Brittany Fasy
+      role: Assistant Professor
+      department: Gianforte School of Computing & Department of Mathematical Sciences
+      photo: assets/people/brittany.jpg
+      website: http://www.fasy.us
+      bio: >
+        Dr. Fasy joined MSU in 2015, after postdocs at Tulane University and
+        Carnegie Mellon University. She received her PhD in Computer Science
+        from Duke University in 2012. Her research is in Applied Algebraic
+        Topology, working both on the theoretical foundations as well as on
+        applying the techniques of TDA to various fields.
+
+    - name: Tomas Gedeon
+      role: Professor
+      department: Department of Mathematical Sciences
+      photo: assets/people/tomas.jpg
+      website: http://www.math.montana.edu/gedeon/
+      bio: >
+        Dr. Gedeon joined MSU in 1995 after a postdoc at Northwestern
+        University. He received his PhD in 1994 under the direction of
+        Konstantin Mischaikow. His research interests are in Mathematical
+        Biology and Applied Algebraic Topology.
+
+    - name: Ryan Grady
+      role: Assistant Professor
+      department: Department of Mathematical Sciences
+      photo: assets/people/ryangrady.JPG
+      website: http://www.math.montana.edu/rgrady/index.html
+      bio: >
+        Dr. Grady obtained his PhD from the University of Notre Dame under
+        Stephan Stolz. His research interests include algebraic topology and
+        mathematical aspects of quantum field theory.
+
+    - name: David Millman
+      role: Assistant Professor
+      department: Gianforte School of Computing
+      photo: assets/people/dave.jpg
+      website: https://www.cs.montana.edu/dave/mySite/index.html
+      bio: >
+        Dr. Millman joined MSU in 2017. He received his Ph.D. in Computer
+        Science from UNC Chapel Hill in 2012. His research is in Computational
+        Geometry and Scientific Computing and some of their unusual
+        applications.
+
+    - name: Binhai Zhu
+      role: Professor
+      department: Gianforte School of Computing
+      photo: assets/people/binhai_zhu.jpg
+      website: https://www.cs.montana.edu/bhz/
+      bio: >
+        Dr. Zhu joined MSU in 2000. He obtained his PhD at McGill University
+        in 1994. His current research interests are algorithms and their
+        applications, especially problems in computational biology, with
+        algorithms, geometry and topology as tools.
+
+# ------------------------------------------------------------------------------
+# POSTDOCTORAL RESEARCHERS
+- category: Postdoctoral Researchers
+  members:
+    - name: Alex McCleary
+      role: Postdoctoral Researcher
+      department: Computer Science
+      photo: assets/people/placeholder.svg
+
+# ------------------------------------------------------------------------------
+# GRADUATE STUDENTS 
+- category: Graduate Students
+  members:
+    - name: Eli Quist
+      role: M.S. Student
+      department: Computer Science
+      photo: assets/people/eli.jpg
+
+# ------------------------------------------------------------------------------
+# UNDERGRADUATE STUDENTS 
+- category: Undergraduates
+  members:
+
+    
+# ------------------------------------------------------------------------------
+# FORMER MEMBERS 
+- category: Former Members
+  members:
+    - name: Rostik Mertz
+      role: Undergraduate Student
+      department: Computer Science
+      photo: assets/people/rostik.mertz.JPG
+
+    - name: Sam Micka
+      role: PhD Student
+      department: Computer Science
+      photo: assets/people/sam-micka.jpg
+      website: https://www.cs.montana.edu/~sam.micka/
+
+    - name: Daniel Salinas
+      role: PhD Student
+      department: Computer Science
+      photo: assets/people/daniel.jpg
+
+    - name: Robin Belton
+      role: PhD Student
+      department: Department of Mathematical Sciences
+      photo: assets/people/robin.jpg
+      website: https://robinbelton.github.io/
+
+    - name: Anna Schenfisch
+      role: PhD Student
+      department: Department of Mathematical Sciences
+      photo: assets/people/anna.png
+
+    - name: Jordan Schupbach
+      role: PhD Student (Statistics)
+      department: Department of Mathematical Sciences
+      photo: assets/people/jordan_schupbach.png
+
+    - name: Lucia (Lucy) Williams
+      role: PhD Student
+      department: Gianforte School of Computing
+      photo: assets/people/lucy_williams.jpg
+
+    - name: Brad McCoy
+      role: PhD Student
+      department: Gianforte School of Computing
+      photo: assets/people/brad.jpg
+
+    - name: Nathan Stouffer
+      role: Undergraduate Student
+      department: Computer Science & Mathematics
+      photo: assets/people/nathan.jpg

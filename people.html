@@ -1,0 +1,30 @@
+---
+layout: default
+title: People
+sectionid: people
+---
+
+<div class="container">
+    {% for group in site.data.people %}
+    <h1>{{ group.category }}</h1>
+    <div class="row people-row">
+        {% for person in group.members %}
+        <div class="col-md-4 col-sm-6 person-card">
+            <img src="{{ person.photo | relative_url }}"
+                 alt="{{ person.name }}"
+                 class="person-photo">
+            <h4>
+                {% if person.website %}
+                <a href="{{ person.website }}">{{ person.name }}</a>
+                {% else %}
+                {{ person.name }}
+                {% endif %}
+            </h4>
+            <p>{{ person.role }}</p>
+            <p>{{ person.department }}</p>
+        </div>
+        {% endfor %}
+    </div>
+    <hr>
+    {% endfor %}
+</div>

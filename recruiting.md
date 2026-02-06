@@ -1,3 +1,10 @@
+---
+layout: page
+title: Recruitment
+sectionid: recruitment
+permalink: /recruiting.html
+---
+
 # Recruiting for Geometry and Topology at MSU
 
 There are several faculty between the School of Computing and the Department of

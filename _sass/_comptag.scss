@@ -1,0 +1,70 @@
+// CompTaG site-specific overrides
+
+// Circular people photos
+.person-photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+// People card grid
+.people-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.person-card {
+  text-align: center;
+  margin-bottom: 30px;
+
+  h4 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+
+  p {
+    margin: 0;
+    color: $gray;
+    font-size: 13px;
+  }
+}
+
+// Project row
+.project-row {
+  margin-bottom: 30px;
+  overflow: hidden;
+
+  img {
+    max-width: 200px;
+    max-height: 150px;
+    margin-right: 20px;
+    float: left;
+  }
+}
+
+// Homepage jumbotron
+.comptag-jumbotron {
+  background-color: $brand-primary;
+  color: #fff;
+  padding: 30px 0;
+  margin-top: -20px;
+  margin-bottom: 30px;
+
+  h1 {
+    color: #fff;
+    font-size: 36px;
+  }
+
+  p {
+    font-size: 18px;
+  }
+}
+
+// Group photo
+.group-photo {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
