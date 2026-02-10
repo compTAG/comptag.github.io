@@ -70,6 +70,10 @@
 # GRADUATE STUDENTS 
 - category: Graduate Students
   members:
+    - name: Paul Cornish
+      role: PhD Student
+      department: Computer Science
+      photo: assets/people/paul.jpg
     - name: Eli Quist
       role: M.S. Student
       department: Computer Science
@@ -77,8 +81,8 @@
 
 # ------------------------------------------------------------------------------
 # UNDERGRADUATE STUDENTS 
-- category: Undergraduate Students
-  members:
+# - category: Undergraduate Students
+#   members:
 
     
 # ------------------------------------------------------------------------------
