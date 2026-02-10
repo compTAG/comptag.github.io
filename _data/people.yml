@@ -78,6 +78,11 @@
       role: M.S. Student
       department: Computer Science
       photo: assets/people/eli.jpg
+    - name: Jacob Sriraman
+      role: PhD Student
+      department: Computer Science
+      photo: assets/people/jacob.jpg
+
 
 # ------------------------------------------------------------------------------
 # UNDERGRADUATE STUDENTS 
@@ -89,6 +94,17 @@
 # FORMER MEMBERS 
 - category: Former Members
   members:
+    - name: Robin Belton
+      role: PhD Student
+      department: Department of Mathematical Sciences
+      photo: assets/people/robin.jpg
+      website: https://robinbelton.github.io/
+
+    - name: Brad McCoy
+      role: PhD Student
+      department: Gianforte School of Computing
+      photo: assets/people/brad.jpg
+
     - name: Rostik Mertz
       role: Undergraduate Student
       department: Computer Science
@@ -105,12 +121,6 @@
       department: Computer Science
       photo: assets/people/daniel.jpg
 
-    - name: Robin Belton
-      role: PhD Student
-      department: Department of Mathematical Sciences
-      photo: assets/people/robin.jpg
-      website: https://robinbelton.github.io/
-
     - name: Anna Schenfisch
       role: PhD Student
       department: Department of Mathematical Sciences
@@ -121,17 +131,12 @@
       department: Department of Mathematical Sciences
       photo: assets/people/jordan_schupbach.png
 
-    - name: Lucia (Lucy) Williams
-      role: PhD Student
-      department: Gianforte School of Computing
-      photo: assets/people/lucy_williams.jpg
-
-    - name: Brad McCoy
-      role: PhD Student
-      department: Gianforte School of Computing
-      photo: assets/people/brad.jpg
-
     - name: Nathan Stouffer
       role: Undergraduate Student
       department: Computer Science & Mathematics
       photo: assets/people/nathan.jpg
+
+    - name: Lucia (Lucy) Williams
+      role: PhD Student
+      department: Gianforte School of Computing
+      photo: assets/people/lucy_williams.jpg
