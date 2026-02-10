@@ -62,9 +62,9 @@
 - category: Postdoctoral Researchers
   members:
     - name: Alex McCleary
-      role: Postdoctoral Researcher
+      role: Postdoc
       department: Computer Science
-      photo: assets/people/placeholder.svg
+      photo: assets/people/alex.png
 
 # ------------------------------------------------------------------------------
 # GRADUATE STUDENTS 
