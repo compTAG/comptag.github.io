@@ -54,10 +54,14 @@
 
 # ------------------------------------------------------------------------------
 # UNDERGRADUATE STUDENTS 
-# - category: Undergraduate Students
-#   members:
-
+- category: Undergraduate Students
+  members:
+    - name: Nathan Campbell
+      role: Undergraduate Student
+      department: Computer Science
+      photo: assets/people/nathan-campbell.jpg
     
+
 # ------------------------------------------------------------------------------
 # FORMER MEMBERS 
 - category: Former Members
