@@ -66,6 +66,10 @@
       role: Undergraduate Student
       department: Computer Science
       photo: assets/people/nathan-campbell.jpg
+    - name: Michael Christensen
+      role: Undergraduate Student
+      department: Computer Science
+      photo: assets/people/michael-christensen.jpg
     
 
 # ------------------------------------------------------------------------------
