@@ -29,11 +29,10 @@ recruitment events (although, they are likely to be virtual this year ...)
 If you are interested in applying or have any questions, please feel free to
 contact:
 
-* Brittany Fasy <brittany.fasy@montana.edu>
-* David Millman <david.millman@montana.edu>
+* Brittany Fasy <mailto:brittany.fasy@montana.edu>
 
 
-Hope to see you here in Fall 2021!
+Hope to see you here in Fall 2027!
 
 ## About MSU
 
@@ -47,6 +46,29 @@ you will love Bozeman.
 
 ## Faculty Bios
 
+### Computer Science 
+
+**Dr. Brittany FASY** is an associate professor in the Gianforte School of Computing
+and an affiliate of the Department of Mathematical Sciences. She joined MSU in 2015, 
+after holding postdoctoral positions at Tulane University and Carnegie Mellon University.
+She received her PhD from
+Duke Universtiy in 2012, where her adviser was Herbert Edelsbrunner.  Dr. Fasy's
+research is in Applied Algebraic Topology, working both on the theoretical
+foundations as well as on applying topological techniques to various fields,
+including road network analysis and prostate cancer histology. She currently
+serves on the steering committee for Women in Computational Topology
+(WinCompTop) and is an associate editor of the AIMS journal Foundations of Data
+Science.
+
+**Dr. Binhai ZHU** is a professor in the Gianforte School of Computing.
+He joined MSU in 2000, prior to that he taught at City University of
+Hong Kong from 1996 to 2000 and did a post-doc at Los Alamos National
+Laboratory from 1994 to 1996. He obtained his PhD at McGill University
+in 1994 under the supervision of Godfried Toussaint. His current research
+interests are algorithms and their applications (especially problems in
+computational biology, with algorithms, geometry and topology as tools).
+
+### Mathematics
 
 **Dr. David AYALA** is an associate professor in the Mathematics Department.  He
 joined MSU in 2014, after postdocs as Berkeley, USC, Harvard, and the University
@@ -57,16 +79,6 @@ notably as it draws from homotopy theory, manifold topology, and higher category
 theory.  Most recently, his work uses stratifications to codify inductive
 constructions and argumentation.
 
-**Dr. Brittany FASY** is an assistant professor in the Gianforte School of Computing
-and Department of Mathematical Sciences. She joined MSU in 2015, after postdocs
-at Tulane University and Carnegie Mellon University. She received her PhD from
-Duke Universtiy in 2012, where her adviser was Herbert Edelsbrunner.  Dr. Fasy's
-research is in Applied Algebraic Topology, working both on the theoretical
-foundations as well as on applying topological techniques to various fields,
-including road network analysis and prostate cancer histology. She currently
-serves on the steering committee for Women in Computational Topology
-(WinCompTop) and is an associate editor of the AIMS journal Foundations of Data
-Science.
 
 **Dr. Tomas GEDEON** is a professor of mathematics in the Department of Mathematical
 Sciences. He joined MSU in 1995 after a postdoc at Northwestern University. He
@@ -89,32 +101,4 @@ research centers broadly around geometric representation theory, using ideas and
 tools from mathematical physics, algebraic geometry, algebraic topology, and low
 dimensional topology.
 
-**Dr. David MILLMAN** is an assistant professor in the Gianforte School of
-Computing. He joined MSU in 2017 after helping to build the initial versions of
-ProductionPro and Nowsta. He received his Ph.D. in Computer Science from UNC
-Chapel Hill in 2012 under the guidance of Jack Snoeyink. Dr. Millman's research
-is in Computational Geometry and Scientific Computing and some of their unusual
-applications.
 
-**Dr. Binhai ZHU** is a professor in the Gianforte School of Computing.
-He joined MSU in 2000, prior to that he taught at City University of
-Hong Kong from 1996 to 2000 and did a post-doc at Los Alamos National
-Laboratory from 1994 to 1996. He obtained his PhD at McGill University
-in 1994 under the supervision of Godfried Toussaint. His current research
-interests are algorithms and their applications (especially problems in
-computational biology, with algorithms, geometry and topology as tools).
-
-**Dr. Dominique ZOSSO** is an Assistant Professor in the Department of Mathematical
-Sciences.  He is interested in a broad variety of topics in data science, image
-analysis, and computational mathematics. Before joining MSU, he earned both an
-MSc. and a Ph.D. in Electrical Engineering from EPFL in Lausanne, Switzerland,
-and spent more than 4 years as Assistant Adjunct Professor in Computational and
-Applied Mathematics at UCLA.  His research projects range from very applied to
-somewhat theoretical.  For example, he has active collaborations with faculty in
-the Department of Microbiology and Immunology, the Department of Electrical and
-Computer Engineering, and the Department of Physics.  On the more theoretical
-end of the spectrum, he focuses on efficient optimization techniques and tricks
-to make models like Archetypal Analysis applicable to "Big Data" sets. Another
-current major research effort is studying "Graph-based Geometric Data Analysis"
-that studies the shape of point clouds using notions of convex and integral
-geometry.
