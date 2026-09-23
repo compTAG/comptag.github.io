@@ -57,7 +57,8 @@
     - name: Madhav Cherupilil Sajeev
       role: PhD Student
       department: Computer Science
-      photo: assets/people/madhav.jpg
+      photo: assets/people/madhav_cs.webp
+      photo-position: "50% 90%" # (LR, TB)
 
 
 # ------------------------------------------------------------------------------
