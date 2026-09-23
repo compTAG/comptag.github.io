@@ -6,13 +6,26 @@ sectionid: people
 
 <div class="container">
     {% for group in site.data.people %}
+    {% if group.members.size == 0 %}
+        {% continue %}
+    {% endif %}
     <h1>{{ group.category }}</h1>
     <div class="row people-row">
         {% for person in group.members %}
         <div class="col-md-4 col-sm-6 person-card">
+            {% capture img_exists %}{% file_exists {{person.photo}} %}{% endcapture %}
+            {% if img_exists == "true" %}
             <img src="{{ person.photo | relative_url }}"
-                 alt="{{ person.name }}"
-                 class="person-photo">
+                {% if person['photo-position'] != nil %}
+                style="object-position: {{ person['photo-position'] }}"
+                {% endif %}
+                alt="{{ person.name }}"
+                class="person-photo">
+            {% else %}
+            <img src="{{ "/assets/people/placeholder.svg" | relative_url }}"
+                alt="Placeholder photo"
+                class="person-photo">
+            {% endif %}
             <h4>
                 {% if person.website %}
                 <a href="{{ person.website }}">{{ person.name }}</a>

@@ -6,6 +6,7 @@
       role: Assistant Professor
       department: Gianforte School of Computing & Department of Mathematical Sciences
       photo: assets/people/brittany.jpg
+      photo-position: "50% 20%" # (LR, TB)
       website: http://www.fasy.us
       bio: >
         Dr. Fasy joined MSU in 2015, after postdocs at Tulane University and
@@ -24,6 +25,7 @@
       role: Professor
       department: Gianforte School of Computing
       photo: assets/people/binhai_zhu.jpg
+      photo-position: "50% 20%" # (LR, TB)
       website: https://www.cs.montana.edu/bhz/
       bio: >
         Dr. Zhu joined MSU in 2000. He obtained his PhD at McGill University
@@ -34,43 +36,57 @@
 # ------------------------------------------------------------------------------
 # POSTDOCTORAL RESEARCHERS
 - category: Postdoctoral Researchers
-  members:
-    - name: Alex McCleary
-      role: Postdoc
-      department: Computer Science
-      photo: assets/people/alex.png
+  members: []
 
 # ------------------------------------------------------------------------------
 # GRADUATE STUDENTS 
 - category: Graduate Students
   members:
+    - name: Eli Barton
+      role: PhD Student
+      department: Computer Science
+      photo: assets/people/eli_barton.jpg
     - name: Paul Cornish
       role: PhD Student
       department: Computer Science
       photo: assets/people/paul.jpg
-    - name: Eli Quist
-      role: M.S. Student
-      department: Computer Science
-      photo: assets/people/eli.jpg
     - name: Jacob Sriraman
       role: PhD Student
       department: Computer Science
       photo: assets/people/jacob.jpg
+    - name: Madhav Cherupilil Sajeev
+      role: PhD Student
+      department: Computer Science
+      photo: assets/people/madhav.jpg
 
 
 # ------------------------------------------------------------------------------
 # UNDERGRADUATE STUDENTS 
 - category: Undergraduate Students
   members:
-    - name: Nathan Campbell
-      role: Undergraduate Student
+    - name: Kyla Andersen
+      role: M.S. Student
       department: Computer Science
-      photo: assets/people/nathan-campbell.jpg
-    - name: Michael Christensen
-      role: Undergraduate Student
-      department: Computer Science
-      photo: assets/people/michael-christensen.jpg
+      photo: assets/people/kyla_andersen.jpg
+      photo-position: "50% 0%" # (LR, TB)
     
+# ------------------------------------------------------------------------------
+# AFFILIATED MEMBERS
+- category: Affiliate Members
+  members:
+    - name: Alex McCleary
+      role: Postdoc
+      department: Computer Science
+      photo: assets/people/alex.png
+    - name: Nathan Patera
+      role: M.S. Student
+      department: Computer Science
+      photo: assets/people/nathan_patera.jpg
+    - name: Eli Quist
+      role: M.S. Student
+      department: Computer Science
+      photo: assets/people/eli_quist.jpg
+
 
 # ------------------------------------------------------------------------------
 # FORMER MEMBERS 
@@ -81,6 +97,16 @@
       department: Department of Mathematical Sciences
       photo: assets/people/robin.jpg
       website: https://robinbelton.github.io/
+
+    - name: Nathan Campbell
+      role: Undergraduate Student
+      department: Computer Science
+      photo: assets/people/nathan-campbell.jpg
+
+    - name: Michael Christensen
+      role: Undergraduate Student
+      department: Computer Science
+      photo: assets/people/michael-christensen.jpg
 
     - name: Brad McCoy
       role: PhD Student
@@ -128,6 +154,7 @@
       role: Undergraduate Student
       department: Computer Science & Mathematics
       photo: assets/people/nathan.jpg
+      photo-position: "50% 40%" # (LR, TB)
 
     - name: Lucia (Lucy) Williams
       role: PhD Student
