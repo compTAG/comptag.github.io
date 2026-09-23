@@ -25,6 +25,14 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - color-functions
+    - global-builtin
+    - slash-div
+
 exclude:
   - Gemfile
   - Gemfile.lock

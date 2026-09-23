@@ -13,8 +13,12 @@ sectionid: people
     <div class="row people-row">
         {% for person in group.members %}
         <div class="col-md-4 col-sm-6 person-card">
-            {% capture img_exists %}{% file_exists {{person.photo}} %}{% endcapture %}
-            {% if img_exists == "true" %}
+            {% assign photo_path = person.photo %}
+            {% unless "/" == photo_path | slice: 0 %}
+            {% assign photo_path = "/" | append: photo_path %}
+            {% endunless %}
+            {% assign img_file = site.static_files | where: "path", photo_path | first %}
+            {% if img_file %}
             <img src="{{ person.photo | relative_url }}"
                 {% if person['photo-position'] != nil %}
                 style="object-position: {{ person['photo-position'] }}"
