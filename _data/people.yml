@@ -45,7 +45,8 @@
     - name: Eli Barton
       role: PhD Student
       department: Computer Science
-      photo: assets/people/eli_barton.jpg
+      photo: assets/people/eli_barton.webp
+      photo-position: 50% 35% # (LR, TB)
     - name: Paul Cornish
       role: PhD Student
       department: Computer Science
