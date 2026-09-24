@@ -1,3 +1,16 @@
+# To reduce file size and web optimize a photo:
+# `ffmpeg -i file.jpg -q:v 90 file.webp`
+# - 85-95 retain higher detail, less compression
+# - 80 retain moderate detail, moderate compression
+# - 75 modest detail, high compression
+
+# `photo-position` is the css-property `object-position`.
+# It will pane the square/circle crop of a photo to a specific
+# position within the image. Arguments: LR%, TB%.
+# With a non-square image, it will only pane along the largest dimension:
+# - Landscape image (W>H) - panes left to right only.
+# - Portrait image (H>W) - panes top to bottom only.
+
 # ------------------------------------------------------------------------------
 # FACULTY
 - category: Faculty
@@ -67,10 +80,14 @@
 - category: Undergraduate Students
   members:
     - name: Kyla Andersen
-      role: M.S. Student
+      role: Undergraduate Student
       department: Computer Science
       photo: assets/people/kyla_andersen.jpg
       photo-position: "50% 0%" # (LR, TB)
+    - name: Jo Niglio
+      role: Undergraduate Student
+      department: Applied Mathematics | Physics
+      photo: assets/people/jo_niglio.webp
     
 # ------------------------------------------------------------------------------
 # AFFILIATED MEMBERS
